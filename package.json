@@ -1,0 +1,22 @@
+{
+  "name": "produto-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarah0713/Produto-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarah0713/Produto-final/issues"
+  },
+  "homepage": "https://github.com/Sarah0713/Produto-final#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
